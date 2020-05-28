@@ -1,0 +1,12 @@
+E:\IT\Tests\LoopUp\LoopUp\bin\Debug\netcoreapp3.1\LoopUp.exe
+E:\IT\Tests\LoopUp\LoopUp\obj\Debug\netcoreapp3.1\LoopUp.AssemblyInfoInputs.cache
+E:\IT\Tests\LoopUp\LoopUp\obj\Debug\netcoreapp3.1\LoopUp.AssemblyInfo.cs
+E:\IT\Tests\LoopUp\LoopUp\bin\Debug\netcoreapp3.1\LoopUp.deps.json
+E:\IT\Tests\LoopUp\LoopUp\bin\Debug\netcoreapp3.1\LoopUp.runtimeconfig.json
+E:\IT\Tests\LoopUp\LoopUp\bin\Debug\netcoreapp3.1\LoopUp.runtimeconfig.dev.json
+E:\IT\Tests\LoopUp\LoopUp\bin\Debug\netcoreapp3.1\LoopUp.dll
+E:\IT\Tests\LoopUp\LoopUp\bin\Debug\netcoreapp3.1\LoopUp.pdb
+E:\IT\Tests\LoopUp\LoopUp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\IT\Tests\LoopUp\LoopUp\obj\Debug\netcoreapp3.1\LoopUp.csproj.CopyComplete
+E:\IT\Tests\LoopUp\LoopUp\obj\Debug\netcoreapp3.1\LoopUp.dll
+E:\IT\Tests\LoopUp\LoopUp\obj\Debug\netcoreapp3.1\LoopUp.pdb

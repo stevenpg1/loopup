@@ -1,0 +1,137 @@
+[
+    {
+      "matcher": "01",
+      "format": "01### #####",
+      "length": 10
+    },
+    {
+      "matcher": "01",
+      "format": "01### ######",
+      "length": 11
+    },
+    {
+      "matcher": "011",
+      "format": "011# ### ####",
+      "length": 11
+    },
+    {
+      "matcher": "013397",
+      "format": "013397 #####",
+      "length": 11
+    },
+    {
+      "matcher": "013398",
+      "format": "013398 #####",
+      "length": 11
+    },
+    {
+      "matcher": "013873",
+      "format": "013873 #####",
+      "length": 11
+    },
+    {
+      "matcher": "015242",
+      "format": "015242 #####",
+      "length": 11
+    },
+    {
+      "matcher": "015394",
+      "format": "015394 #####",
+      "length": 11
+    },
+    {
+      "matcher": "015395",
+      "format": "015395 #####",
+      "length": 11
+    },
+    {
+      "matcher": "015396",
+      "format": "015396 #####",
+      "length": 11
+    },
+    {
+      "matcher": "016973",
+      "format": "016973 #####",
+      "length": 11
+    },
+    {
+      "matcher": "016974",
+      "format": "016974 #####",
+      "length": 11
+    },
+    {
+      "matcher": "016977",
+      "format": "016977 ####",
+      "length": 10
+    },
+    {
+      "matcher": "016977",
+      "format": "016977 #####",
+      "length": 11
+    },
+    {
+      "matcher": "017683",
+      "format": "017683 #####",
+      "length": 11
+    },
+    {
+      "matcher": "017684",
+      "format": "017684 #####",
+      "length": 11
+    },
+    {
+      "matcher": "017687",
+      "format": "017687 #####",
+      "length": 11
+    },
+    {
+      "matcher": "019467",
+      "format": "019467 #####",
+      "length": 11
+    },
+    {
+      "matcher": "019755",
+      "format": "019755 #####",
+      "length": 11
+    },
+    {
+      "matcher": "019756",
+      "format": "019756 #####",
+      "length": 11
+    },
+    {
+      "matcher": "02",
+      "format": "02# #### ####",
+      "length": 11
+    },
+    {
+      "matcher": "03",
+      "format": "03## ### ####",
+      "length": 11
+    },
+    {
+      "matcher": "05",
+      "format": "05### ######",
+      "length": 11
+    },
+    {
+      "matcher": "07",
+      "format": "07### ######",
+      "length": 11
+    },
+    {
+      "matcher": "0800",
+      "format": "0800 ######",
+      "length": 10
+    },
+    {
+      "matcher": "08",
+      "format": "08## ### ####",
+      "length": 11
+    },
+    {
+      "matcher": "09",
+      "format": "09## ### ####",
+      "length": 11
+    }
+ ]
